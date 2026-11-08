@@ -1,0 +1,16 @@
+# Direct dependencies for the five-learner project; Python 3.12 recommended.
+numpy
+pandas
+polars
+pyarrow
+matplotlib
+seaborn
+scipy
+scikit-learn
+jax
+jaxlib
+keras
+pyBlindOpt
+ipykernel
+jupyterlab
+zstandard

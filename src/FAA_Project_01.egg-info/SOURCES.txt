@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/FAA_Project_01.egg-info/PKG-INFO
+src/FAA_Project_01.egg-info/SOURCES.txt
+src/FAA_Project_01.egg-info/dependency_links.txt
+src/FAA_Project_01.egg-info/requires.txt
+src/FAA_Project_01.egg-info/top_level.txt
+src/FAA_Project_01.egg-info/code/evolutionaries.py
